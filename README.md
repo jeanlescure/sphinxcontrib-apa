@@ -71,5 +71,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ## License
 
-Copyright (c) 2022-Present [Package Contributors](https://github.com/simplyhexagonal/package/#contributors-).<br/>
+Copyright (c) 2022-Present [sphinxcontrib-apa Contributors](https://github.com/jeanlescure/sphinxcontrib-apa/#contributors-).<br/>
 Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
